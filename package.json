@@ -8,6 +8,7 @@
         "name": "Mehran Taherimoud",
         "url": "https://mehran.uk"
     },
+    "publisher": "MehranTaherimoud",
     "engines": {
         "vscode": "^1.53.0"
     },
