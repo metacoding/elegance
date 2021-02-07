@@ -9,6 +9,10 @@
         "url": "https://mehran.uk"
     },
     "publisher": "MehranTaherimoud",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/metacoding/elegance.git"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
