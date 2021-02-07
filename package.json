@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "https://raw.githubusercontent.com/metacoding/elegance/master/images/icon.png",
     "contributes": {
         "themes": [
             {
