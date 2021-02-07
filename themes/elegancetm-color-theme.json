@@ -18,9 +18,9 @@
 
 		"button.background": "#746145",
 		"breadcrumb.background": "#1b1b1b",
-		"breadcrumb.foreground": "#bd8080",
+		"breadcrumb.foreground": "#78d60d",
 		
-		"statusBar.background": "#835144",
+		"statusBar.background": "#1a1919",
 		"window.activeBorder": "#020202",
 		"window.inactiveBorder": "#000000",
 		"titleBar.activeBackground": "#3f3f3f",

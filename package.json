@@ -1,8 +1,13 @@
 {
     "name": "elegance",
-    "displayName": "Elegance",
+    "displayName": "Elegance Theme",
     "description": "An elegant dark theme easy enough for reading ",
     "version": "0.0.1",
+    "author": {
+        "email": "mehran.taheri@gmail.com",
+        "name": "Mehran Taherimoud",
+        "url": "https://mehran.uk"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -12,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Elegance by Mehran Taherimoud",
+                "label": "Elegance Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/elegancetm-color-theme.json"
             }
